@@ -1,6 +1,6 @@
 # DataAnalyse
-This is my test about data  analyse
-I spent a lot of time to finish this test.It's a record of my growth.
+This is my pratice about data  analyse.
+I spent a lot of time to finish this pratice.It's a record of my growth.
 There are 18 different files and i'll give you a list.
 01:the basic use of anaconda and i use it to complete some easy tests.
 02:the basic use of python
